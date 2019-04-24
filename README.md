@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Exemplo usando React + REDUX - Tutorial Link:
+
+https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf
+
 ## Available Scripts
 
 In the project directory, you can run:
